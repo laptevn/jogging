@@ -1,4 +1,4 @@
-#Write a REST API that tracks jogging times of users
+# Write a REST API that tracks jogging times of users
 1. API Users must be able to create an account and log in.
 2. All API calls must be authenticated.
 3. Implement at least three roles with different permission levels: a regular user would only be able to CRUD on their owned records, a user manager would be able to CRUD only users, and an admin would be able to CRUD all records and users.
